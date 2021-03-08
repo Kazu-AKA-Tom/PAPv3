@@ -1,0 +1,29 @@
+/*--------------------------------body css code-----------------------------*/
+
+.margin-1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.padding-1{
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.center-1 {
+    text-align: center;
+}
+
+.tag-1 {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.wide-1 {
+    letter-spacing: 4px;
+}

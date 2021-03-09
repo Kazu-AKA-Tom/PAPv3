@@ -1,4 +1,4 @@
-$(function(){
+(function(){
   var str = '#len'; //increment by 1 up to 1-nelemnts
   $(document).ready(function(){
     var i, stop;

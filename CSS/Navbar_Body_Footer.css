@@ -94,7 +94,7 @@ ul li ul li a {
 
 /*---------------- body ----------------------*/
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif !important;
 }
 
 .margin-1 {

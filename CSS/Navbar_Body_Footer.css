@@ -93,6 +93,9 @@ ul li ul li a {
 
 
 /*---------------- body ----------------------*/
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 .margin-1 {
     margin-left: auto;

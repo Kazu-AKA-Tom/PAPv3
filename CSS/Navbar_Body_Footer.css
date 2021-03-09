@@ -3,6 +3,10 @@
 
 
 /*---------------- body ----------------------*/
+ 
+    .Titlepage {
+        text-align: center;
+    }
 
 body {
     margin: 0;

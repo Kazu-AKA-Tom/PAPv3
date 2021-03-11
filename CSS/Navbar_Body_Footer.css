@@ -431,23 +431,33 @@ h1 {
 }
 
 .gallery-box li:nth-child(1) {
-  background-image: url(https://unsplash.com/photos/3BxHnbmQ69g);
+
+  background-image: url(https://unsplash.com/photos/6-jTZysYY_U);
+
 }
 
 .gallery-box li:nth-child(2) {
+
   background-image: url(https://unsplash.it/1000/800?image=1012);
+
 }
 
 .gallery-box li:nth-child(3) {
+
   background-image: url(https://unsplash.it/1000/800?image=1082);
+
 }
 
 .gallery-box li:nth-child(4) {
+
   background-image: url(https://unsplash.it/1000/800?image=1076);
+
 }
 
 .gallery-box li:nth-child(5) {
+
   background-image: url(https://unsplash.it/1000/800?image=1011);
+
 }
 
 .gallery-box a {

@@ -403,7 +403,7 @@ body {
 }
 
 .contact-content p::after {
-    background: #353C46;
+    background: #000000;
     bottom: -30px;
     content: "";
     height: 1px;
@@ -421,7 +421,7 @@ body {
 }
 
 .contact-content span {
-    color: #353c47;
+    color: #000000;
     margin: 0 10px;
 }
 

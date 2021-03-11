@@ -414,7 +414,7 @@ body {
 }
 
 .contact-content h6 {
-    color: #8b9199;
+    color: #000000;
     font-size: 15px;
     font-weight: 400;
     margin-bottom: 10px;
@@ -455,7 +455,7 @@ body {
 
 section, footer {
     background: #000000;
-    color: #868c96;
+    color: #000000;
 }
 
 footer p {

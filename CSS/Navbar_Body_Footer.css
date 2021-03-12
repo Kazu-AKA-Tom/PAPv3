@@ -346,8 +346,8 @@ body {
     color: rgb(255, 255, 255);
     background-color: rgb(27, 24, 24);
     color-adjust: economy;
-    font-family: 'Times New Roman', Times;
-    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
     line-height: 20px;
   }
   

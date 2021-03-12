@@ -374,6 +374,7 @@ body {
     padding-right: 20px !important;
     text-align: center !important;
     font-family: 'Times New Roman', Times, serif !important;
+    font-size: 25px;
   }
   
   .wide-1{
@@ -381,11 +382,6 @@ body {
   }
 
 /*-------------------------------------------  Footer  ----------------------------------------*/
-
-body{
-  margin:0;
-  overflow-x:hidden;
-  }
   
   .footer{
   background:#000;

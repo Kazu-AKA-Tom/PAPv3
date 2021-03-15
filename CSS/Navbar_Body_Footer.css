@@ -71,6 +71,14 @@ body {
 
 /* Home section */
 
+.portfolio {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://live.staticflickr.com/65535/51028759718_08dcf6d8dd_k.jpg);
+    background-position: center top;
+	background-size:cover;
+}
+
 .home {
     width: 100%;
     height: 100vh;

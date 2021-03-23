@@ -401,8 +401,11 @@ body {
     [class^="imghvr-"],
     [class*=" imghvr-"] {
 
+        
         position: relative;
         display: inline-block;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
         margin: 0;
         max-width: 100%;
         background-color: #5a5f63;
@@ -418,7 +421,7 @@ body {
 
     [class^="imghvr-"] > img,
     [class*=" imghvr-"] > img {
-
+        
         vertical-align: top;
         max-width: 100%;
 
@@ -427,7 +430,7 @@ body {
     [class^="imghvr-"] figcaption,
     [class*=" imghvr-"] figcaption {
 
-        background-color: #135796;
+        background-color: #303235;
         padding: 30px;
         position: absolute;
         top: 0;
@@ -482,72 +485,60 @@ body {
             transform: translate(0, 0);
 }
 
-[class^="imghvr-reveal-"]:before,
-[class*=" imghvr-reveal-"]:before {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    content: "";
-    background-color: #135796;
-}
 
-[class^="imghvr-reveal-"] figcaption,
-[class*=" imghvr-reveal-"] figcaption {
-    opacity: 0;
-}
-
-[class^="imghvr-reveal-"]:hover:before,
-[class*=" imghvr-reveal-"]:hover:before {
-    -webkit-transform: translate(0, 0);
-            transform: translate(0, 0);
-}
-
-[class^="imghvr-reveal-"]:hover figcaption,
-[class*=" imghvr-reveal-"]:hover figcaption {
-    opacity: 1;
-    transition-delay: 0.21s;
-}
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
   .footer{
+
   background:#000;
   padding:30px 0px;
   font-family: 'Times New Roman', Times;
   text-align:center;
+
 }
   
   .footer .row{
+
   width:100%;
   margin:1% 0%;
   padding:0.6% 0%;
   color:gray;
   font-size:0.8em;
+
   }
   
   .footer .row a{
+
   text-decoration:none;
   color:gray;
   transition:0.5s;
+
   }
   
   .footer .row a:hover{
+
   color:#fff;
+
   }
   
   .footer .row ul{
+
   width:100%;
+
   }
   
   .footer .row ul li{
+
   display:inline-block;
   margin:0px 30px;
+
   }
   
   .footer .row a i{
+
   font-size:2em;
   margin:0% 1%;
+  
   }
   
   @media (max-width:720px){

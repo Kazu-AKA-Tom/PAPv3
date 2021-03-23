@@ -385,6 +385,7 @@ body {
     text-align: center !important;
     font-family: 'Times New Roman', Times !important;
     font-size: 25px;
+    align
   }
 
   .tag-2{
@@ -398,27 +399,7 @@ body {
 
 /*---------------------------------------- Image Gallery --------------------------------------*/
 
-.container_1{
 
-    
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-
-    }
-
-.image_box {
-
-    margin: 5px;
-    transition: all 1s;
-
-    }
-
--.image_box:hover{
-
-    transform: scale(1.1)
-
-}
 
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
@@ -427,7 +408,7 @@ body {
   padding:30px 0px;
   font-family: 'Times New Roman', Times;
   text-align:center;
-  }
+}
   
   .footer .row{
   width:100%;

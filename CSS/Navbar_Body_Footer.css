@@ -398,10 +398,11 @@ body {
 
 /*---------------------------------------- Image Gallery --------------------------------------*/
 
-.container{
-
+.container_1{
+    
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     }
 
     img{

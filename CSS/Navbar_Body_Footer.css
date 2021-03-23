@@ -399,19 +399,26 @@ body {
 /*---------------------------------------- Image Gallery --------------------------------------*/
 
 .container_1{
+
     
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+
     }
 
-    img{
-        margin: 5px;
-        transition: all 1s;
+.image_box {
+
+    margin: 5px;
+    transition: all 1s;
+
     }
-    img:hover{
-        transform: scale(1.1)
-    }
+
+-.image_box:hover{
+
+    transform: scale(1.1)
+
+}
 
 /*-------------------------------------------  Footer  ----------------------------------------*/
   

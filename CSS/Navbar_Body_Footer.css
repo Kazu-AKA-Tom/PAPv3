@@ -398,8 +398,8 @@ body {
 
 
   hr.solid {
-    color:black;
-    border-top: 3px;
+    color
+    border-top: 3px solid #000;
   }
   
 /*------------------------------------------- Image Gallery ------------------------------------*/

@@ -454,6 +454,14 @@ body {
 }
 
 
+.gallery_item--6 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 7;
+    grid-row-end: 10;
+}
+
+
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
   .footer{

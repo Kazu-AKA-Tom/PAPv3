@@ -425,7 +425,7 @@ body {
 
 .gallery_item--2 {
     grid-column-start: 4;
-    grid-column-end: 6;
+    grid-column-end: 5;
     grid-row-start: 1;
     grid-row-end: 3;
 }

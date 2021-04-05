@@ -423,43 +423,43 @@ body {
     grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 1;
-    grid-row-end: 3;
+    grid-row-end: 4;
 }
 
 .gallery_item--2 {
     grid-column-start: 4;
     grid-column-end: 7;
     grid-row-start: 1;
-    grid-row-end: 3;
+    grid-row-end: 4;
 }
 
 .gallery_item--3 {
     grid-column-start: 1;
     grid-column-end: 4;
-    grid-row-start: 3;
-    grid-row-end: 5;
+    grid-row-start: 4;
+    grid-row-end: 8;
 }
 
 .gallery_item--4 {
     grid-column-start: 4;
     grid-column-end: 7;
-    grid-row-start: 3;
-    grid-row-end: 5;
+    grid-row-start: 4;
+    grid-row-end: 8;
 }
 
 .gallery_item--5 {
     grid-column-start: 1;
     grid-column-end: 4;
-    grid-row-start: 5;
-    grid-row-end: 7;
+    grid-row-start: 4;
+    grid-row-end: 8;
 }
 
 
 .gallery_item--6 {
     grid-column-start: 4;
     grid-column-end: 7;
-    grid-row-start: 5;
-    grid-row-end: 7;
+    grid-row-start: 4;
+    grid-row-end: 8;
 }
 
 

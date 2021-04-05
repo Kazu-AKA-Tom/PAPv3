@@ -74,7 +74,7 @@ body {
 .portfolio {
     width: 100%;
     height: 100vh;
-    background-image: url(https://live.staticflickr.com/65535/51029584392_bee145d475_k.jpg);
+    background-image: url(https://live.staticflickr.com/65535/51038319283_40713ce6f7_k.jpg);
     background-position: center top;
 	background-size:cover;
 }
@@ -394,6 +394,13 @@ body {
   
   .wide-1{
     letter-spacing: 4px !important;
+  }
+
+  .separator {
+      padding-left: 370px;
+      padding-right: 350px;
+      display: inline-block;
+      text-align: center;
   }
 /*------------------------------------------- Image Gallery ------------------------------------*/
 

@@ -132,7 +132,7 @@ body {
         right: 0;
         left: 0;
         bottom: 0;
-        background-color: #111;
+        background-color: rgb(228, 225, 225);
         /*same background color of navbar*/
         background-position: center top;
     }

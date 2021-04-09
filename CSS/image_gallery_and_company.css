@@ -399,9 +399,29 @@ body {
 
   
 /*------------------------------------------- Image Gallery ------------------------------------*/
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 10px;
+}
 
 .wrapper {
     max-width: 1100px;
+}
+
+.wrapper .gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery .images_1 {
+    width: calc(100% / 3);
+}
+
+.gallery .images_1 img {
+    width: 100%;
 }
 
 /*-------------------------------------------  Footer  ----------------------------------------*/

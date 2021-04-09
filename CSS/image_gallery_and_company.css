@@ -3,8 +3,6 @@ html,
 body {
     margin: 0;
     padding: 0;
-    border: 0;
-    vertical-align: baseline;
     box-sizing: border-box;
     font-family:'Times New Roman', Times;
     font-size: 62.5%;
@@ -401,24 +399,7 @@ body {
 
   
 /*------------------------------------------- Image Gallery ------------------------------------*/
-.container_img{
 
-    display: grid;
-    grid-template-columns: repeat(3, 200px);
-    justify-content: center;
-    align-content: center;
-    grid-gap: 16px;
-    height: 100vh;
-
-}
-
-.zoom-img {
-    width: 200px;
-    height: 200px;
-    cursor: pointer;
-    object-fit: cover;
-    object-position: center center;
-}
 
 /*-------------------------------------------  Footer  ----------------------------------------*/
   

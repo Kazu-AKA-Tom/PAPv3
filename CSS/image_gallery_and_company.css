@@ -71,23 +71,14 @@ body {
 
 /* portfolio banner */
 
-.portfolio {
+.monochrome {
     width: 100%;
     height: 100vh;
-    background-image: url(https://live.staticflickr.com/65535/51038319283_40713ce6f7_k.jpg);
+    background-image: url(https://live.staticflickr.com/65535/51028759718_08dcf6d8dd_k.jpg);
     background-position: center top;
 	background-size:cover;
 }
 
-/* homepage banner */
-
-.home {
-    width: 100%;
-    height: 100vh;
-    background-image: url(https://live.staticflickr.com/65535/51024776998_bef58a1d61_k.jpg);
-    background-position: center top;
-	background-size:cover;
-}
 
 .navTrigger {
     display: none;

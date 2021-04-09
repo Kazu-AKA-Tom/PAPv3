@@ -409,7 +409,7 @@ body {
     flex-wrap: wrap;
 }
 
-.gallery span{
+.gallery .span_1{
     display: flex;
     width: 100%;
 }

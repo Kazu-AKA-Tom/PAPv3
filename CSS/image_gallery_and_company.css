@@ -440,6 +440,47 @@ body {
     transition-delay: 0.2s;
 }
 
+
+/*--------------------------------------- Image LightBox ---------------------------------------*/
+
+.lightbox {
+    background: rgba(0, 0, 0, 0.8);
+    display: none;
+    position: fixed;
+    z-index: 1000;
+}
+
+.lightbox:target {
+    align-items: center;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.lightbox img {
+    display: flex;
+    margin: auto;
+    max-height: auto;
+    max-width: auto;
+}
+
+.lightbox .close {
+    color: #fff;
+    font-size: 4em;
+    font-weight: bold;
+    height: 1em;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 1em;
+    z-index: 1001;
+}
+
+
+
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
 .footer-basic {

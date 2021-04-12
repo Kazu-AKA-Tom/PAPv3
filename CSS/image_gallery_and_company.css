@@ -435,10 +435,6 @@ body {
 }
 
 
-.hovereffects:hover a.info {
-    -webkit-transition-delay: 0.2s;
-    transition-delay: 0.2s;
-}
 
 
 /*--------------------------------------- Image LightBox ---------------------------------------*/

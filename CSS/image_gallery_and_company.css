@@ -407,9 +407,7 @@ body {
 
 
 .img-container {
-
-    
-
+    overflow: hidden;
 }
 
 
